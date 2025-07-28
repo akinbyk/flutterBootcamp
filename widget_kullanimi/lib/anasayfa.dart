@@ -27,7 +27,7 @@ class _AnasayfaState extends State<Anasayfa> {
     // TODO: implement initState
     super.initState();
     ulkelerListesi.add("Türkiye");
-    ulkelerListesi.add("İtalya");
+    ulkelerListesi.add("Italy");
     ulkelerListesi.add("Japonya");
   }
 
