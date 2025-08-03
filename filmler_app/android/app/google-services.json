@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141158839857",
+    "project_id": "akinbyk-f655c",
+    "storage_bucket": "akinbyk-f655c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141158839857:android:fd13b32a8ae3155bdb4710",
+        "android_client_info": {
+          "package_name": "com.example.filmler_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwpgeEAlxJnpzUCLeSnEaTmxLBhs5VVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141158839857:android:a47b9534e5ca5e78db4710",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwpgeEAlxJnpzUCLeSnEaTmxLBhs5VVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
